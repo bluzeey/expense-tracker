@@ -57,9 +57,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Alan AI News
+## Expense Tracker
 
-[![Netflix][product-screenshot]](https://ai-powered-news-react.netlify.app/)
+[![Expense Tracker][product-screenshot]](https://expense-trackerv2.netlify.app/)
 
 
 
@@ -95,15 +95,11 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bluzeey/ai-news-app.git
+   git clone https://github.com/bluzeey/expense-tracker.git
    ```
 2. Install NPM packages
    ```sh
    npm install
-   ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -144,8 +140,5 @@ Project Link: [Alan AI News](https://ai-powered-news-react.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
 [product-screenshot]: public/expenseTracker.PNG
-=======
-# Expense Tracker
 
-This is an expense Tracker made using Speechly API. 
->>>>>>> 0591070b4660014ae9f033da153f5cfaa1ce4e6f
+
