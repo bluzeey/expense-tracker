@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div id="top"></div>
 
 [![MIT License][license-shield]][license-url]
@@ -10,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bluzeey/expense-tracker">
-    <img src="public/alan.jpg" alt="Logo" width="100" height="80">
+    <img src="public/logo.png" alt="Logo" width="100" height="80">
   </a>
 
 <h3 align="center">Expense Tracker</h3>
@@ -21,7 +20,7 @@
     <a href="https://github.com/bluzeey/expense-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ai-powered-news-react.netlify.app/">View Demo</a>
+    <a href="https://expense-trackerv2.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/bluzeey/expense-tracker/issues">Report Bug</a>
     ·
