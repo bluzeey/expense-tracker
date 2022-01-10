@@ -71,7 +71,6 @@
 
 * [React.js](https://reactjs.org/)
 * [Material UI](https://mui.com/)
-* [Alan AI](https://alan.app/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
