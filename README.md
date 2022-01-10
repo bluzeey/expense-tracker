@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top"></div>
 
 [![MIT License][license-shield]][license-url]
@@ -144,3 +145,8 @@ Project Link: [Alan AI News](https://ai-powered-news-react.netlify.app/)
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
 [product-screenshot]: public/expenseTracker.PNG
+=======
+# Expense Tracker
+
+This is an expense Tracker made using Speechly API. 
+>>>>>>> 0591070b4660014ae9f033da153f5cfaa1ce4e6f
